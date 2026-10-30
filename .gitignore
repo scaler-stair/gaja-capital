@@ -26,3 +26,6 @@ next-env.d.ts
 
 # generated from pdfjs-dist by scripts/copy-pdf-worker.mjs
 public/pdf.worker.min.mjs
+
+# Env export for pasting into Vercel; holds real secrets, never commit
+vercel.env
